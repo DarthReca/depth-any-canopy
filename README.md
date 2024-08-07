@@ -35,10 +35,6 @@ This project is licensed under the **Apache 2.0 license**. See [LICENSE](LICENSE
 If you find this project useful, please consider citing:
 
 ```bibtex
-@article{cambrin2024estimating,
-  title={Estimating Earthquake Magnitude in Sentinel-1 Imagery via Ranking},
-  author={Cambrin, Daniele Rege and Corley, Isaac and Garza, Paolo and Najafirad, Peyman},
-  journal={arXiv preprint arXiv:2407.18128},
-  year={2024}
+@article{
 }
 ```
