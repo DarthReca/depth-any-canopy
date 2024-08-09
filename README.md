@@ -8,7 +8,8 @@
 
 **[ECCV 2024 CV4E Workshop](https://cv4e.netlify.app/)**
 
-<a href="https://arxiv.org/abs/2407.18128"><img src='https://img.shields.io/badge/arXiv-Depth%20Any%20Canopy-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2408.04523"><img src='https://img.shields.io/badge/arXiv-Depth%20Any%20Canopy-red' alt='Paper PDF'></a>
+<a href='https://huggingface.co/DarthReca/depth-any-canopy-small'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Small%20Version-yellow'></a>
 </div>
 
 **In this paper, we propose transferring the representations learned by recent depth estimation foundation models to the remote sensing domain for measuring canopy height.** Our findings suggest that our proposed Depth Any Canopy, the result of fine-tuning the Depth Anything v2 model for canopy height estimation, provides a performant and efficient solution, surpassing the current state-of-the-art with superior or comparable performance using only a fraction of the computational resources and parameters. Furthermore, our approach requires less than \$1.30 in compute and results in an estimated carbon footprint of 0.14 kgCO2.
@@ -51,6 +52,13 @@ This project is licensed under the **Apache 2.0 license**. See [LICENSE](LICENSE
 If you find this project useful, please consider citing:
 
 ```bibtex
-@article{
+@misc{cambrin2024depthcanopyleveragingdepth,
+      title={Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation}, 
+      author={Daniele Rege Cambrin and Isaac Corley and Paolo Garza},
+      year={2024},
+      eprint={2408.04523},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.04523}, 
 }
 ```
