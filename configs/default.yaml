@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+  - dataset: earthview
+  - model: depthany_small
+  - trainer: default
+
+logger: "comet"
