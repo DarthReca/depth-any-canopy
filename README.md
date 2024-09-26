@@ -18,7 +18,7 @@
 
 ### Getting Started
 
-Install the dependencies of the *requirements.txt* file. Make sure to edit the config files in the `configs/` folder. Then simply run *train.py*
+Install the dependencies of the *requirements.txt* file. Make sure to edit the config files in the `configs/` folder. Then simply run *main.py*
 
 ### Pre-Trained Models
 
